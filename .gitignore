@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/PCPE_priority_sim/[Ll]ibrary/
+/PCPE_priority_sim/[Tt]emp/
+/PCPE_priority_sim/[Oo]bj/
+/PCPE_priority_sim/[Bb]uild/
+/PCPE_priority_sim/[Bb]uilds/
+/PCPE_priority_sim/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
